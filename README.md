@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Radu1409/Radu1409/main/BannerGitHub.jpg">
 <h1 align="center">Hi 👋, I'm Radu Purecel</h1>
 <h3 align="center">A passionate software C/C++ developer</h3>
 
