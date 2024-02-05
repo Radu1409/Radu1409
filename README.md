@@ -6,13 +6,11 @@
 
 I'm a software developer, with a keen interest towards Embedded Software Development and Web Development, which aims to apply my skills I've acquired during my 1 year period of working as a C/C++, Python Engineer.
 
-- 🔭 I’m currently working on **Air Conditioning System**
-
-- 🌱 I’m currently learning **Docker, Jenkins**
+- 🌱 I’m currently learning **PostgreSQL, Docker, Jenkins**
 
 - 📫 How to reach me **radu.purecel20@gmail.com**
 
-- ⚡ Fun fact **I did hammer curls with 50 kg at the gym.**
+- ⚡ Fun fact **I'm the strongest man in my town.**
 
 
 ### Connect with me:
