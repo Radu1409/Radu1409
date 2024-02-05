@@ -14,11 +14,11 @@ I'm a software developer, with a keen interest towards Embedded Software Develop
 
 
 ### Connect with me:
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30px" style="padding-right:10px;">](https://www.linkedin.com/in/radu-purecel-1173521b5/)
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30px" style="padding-right:10px;">](https://www.instagram.com/purecel_radu/)
+[<img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">](https://www.youtube.com/channel/UCuZK478MGGMFP3PMOJzkXBw)
+[<img align="left" alt="LeetCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">](https://leetcode.com/user9592EH/)
 
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-<img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-<img align="left" alt="LeetCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 <br />
 <br />
 <br />
@@ -29,7 +29,7 @@ Feel free to contact me, let's have a quick chat and see how I can help !
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; ">
+<div style="display: flex;">
     <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
     <img alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
