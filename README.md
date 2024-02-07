@@ -16,7 +16,6 @@ I'm a software developer, with a keen interest towards Embedded Software Develop
 ### Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30px" style="padding-right:10px;">](https://www.linkedin.com/in/radu-purecel-1173521b5/)
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30px" style="padding-right:10px;">](https://www.instagram.com/purecel_radu/)
-[<img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg">](https://www.youtube.com/channel/UCuZK478MGGMFP3PMOJzkXBw)
 [<img align="left" alt="LeetCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">](https://leetcode.com/user9592EH/)
 
 <br />
