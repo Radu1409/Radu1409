@@ -6,7 +6,7 @@
 
 I'm a software developer, with a keen interest towards Embedded Software Development and Web Development, which aims to apply my skills I've acquired during my 1 year period of working as a C/C++, Python Engineer.
 
-- 🌱 I’m currently learning **PostgreSQL, Docker, Jenkins**
+- 🌱 I’m currently learning **PostgreSQL, Docker, Kubernetes, Jenkins**
 
 - 📫 How to reach me **radu.purecel20@gmail.com**
 
